@@ -35,6 +35,41 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ---
 
+### 🚀 Projects
+
+| Project | Explanation | Tech Stack |
+|---|---|---|
+| [**FoodLoop**](https://github.com/Shambhavi-goel/FoodLoop) | Cross-platform mobile app connecting surplus-food donors with recipients to reduce food wastage. | Flutter, Dart |
+| [**SAQMS**](https://github.com/Nilaykumar25/Smart_Appointment_Queue_Management_System) | Full-stack clinic platform for booking appointments and tracking real-time queue position. | React, Node.js, Express, PostgreSQL, Redis, JWT |
+| [**Face Recognition System**](https://github.com/Shambhavi-goel/face-recognition-system) | Facial recognition pipeline supporting 100+ identities using detection, alignment, and embedding matching. | Python, InsightFace, ArcFace, OpenCV, scikit-learn |
+| [**Clean Street**](https://github.com/Aman162004/clean-street) | Full-stack web app for reporting and tracking local civic/cleanliness issues via maps and a live dashboard. | React, Node.js, Express, MongoDB, Leaflet, Recharts, JWT |
+| [**Kissan Sathi**](https://github.com/Aman162004/Blockchain-App-For-Farmers) | Decentralized marketplace connecting farmers directly with buyers via smart contracts and a transparent ledger. | Solidity, Ethereum/Polygon, Node.js, Express, MongoDB, JWT |
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
 ### 🛠️ Skills
 
 **Languages:** Python, C, C++  <br>
@@ -54,7 +89,6 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 - ☁️ **AI for Bharat Certification (AWS-powered, 2025)** — two-phase learning + hackathon program with hands-on AI/AWS exposure
 
 ---
-
 
 ---
 
