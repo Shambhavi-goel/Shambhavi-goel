@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shambhavi Goel </h1>
 
 <p align="center">
-  <b>B.Tech AI & ML Student | Aspiring AI/ML Engineer</b><br/>
+  <b>B.Tech AI & ML Student</b><br/>
   Turning ideas into working products — one line of code at a time.
 </p>
 
