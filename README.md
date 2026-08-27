@@ -37,7 +37,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ### 🚀 Projects
 
-| Project | Explanation | Tech Stack |
+| Project | One-line Explanation | Tech Stack |
 |---|---|---|
 | [**FoodLoop**](https://github.com/Shambhavi-goel/FoodLoop) | Cross-platform mobile app connecting surplus-food donors with recipients to reduce food wastage. | Flutter, Dart |
 | [**SAQMS**](https://github.com/Nilaykumar25/Smart_Appointment_Queue_Management_System) | Full-stack clinic platform for booking appointments and tracking real-time queue position. | React, Node.js, Express, PostgreSQL, Redis, JWT |
@@ -87,6 +87,8 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 - 🎗️ **Ericsson Empowering Girls Scholarship** — recipient under the Ericsson girl-empowerment program
 - 💡 **GFG Hack-4-Viksit Bharat Hackathon (2026)** — Top 15 teams for a Carbon Coin Marketplace (OCR, satellite verification, face recognition)
 - ☁️ **AI for Bharat Certification (AWS-powered, 2025)** — two-phase learning + hackathon program with hands-on AI/AWS exposure
+- 🏅 **AWS Educate Badges** — earned for completing Machine Learning Foundations, Introduction to Gen AI, and Introduction to Cloud 101
+- 🚀 **India Innovates 2026** — Finalist for *Clean Street*, a civic issue reporting platform
 
 ---
 
