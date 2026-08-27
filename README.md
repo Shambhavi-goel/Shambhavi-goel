@@ -19,7 +19,7 @@
 
 ### 🌱 About Me
 
-I'm a B.Tech AI & ML student at the **Faculty of Technology, University of Delhi**, with a strong foundation in programming, data structures & algorithms, and data analytics. I enjoy building end-to-end products — from disease-prediction ML pipelines to blockchain marketplaces and cross-platform mobile apps — through self-driven projects, coursework, and hackathons.
+I'm a B.Tech AI & ML student at the **Faculty of Technology, University of Delhi**, with a strong foundation in programming, data structures & algorithms, and data analytics. I enjoy building end-to-end products through self-driven projects, coursework, and hackathons.
 
 I'm comfortable working across the stack: data cleaning and modeling in Python, front-end/mobile development in Flutter and JavaScript, and rapid prototyping under hackathon time constraints.
 
