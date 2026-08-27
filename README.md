@@ -38,11 +38,11 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 ### 🛠️ Skills
 
 **Languages:** Python, C, C++  <br>
-**Web/Mobile:** HTML, CSS, JavaScript, Flutter
-**Data/ML:** Data Cleaning, EDA, Feature Engineering, ML Classification Models
-**Tools & DB:** MySQL, Git
-**CS Core:** Data Structures & Algorithms, Competitive Programming
-**AI/Cloud:** AWS — Machine Learning Foundations, Introduction to Gen AI, Introduction to Cloud 101
+**Web/Mobile:** HTML, CSS, JavaScript, Flutter <br>
+**Data/ML:** Data Cleaning, EDA, Feature Engineering, ML Classification Models <br>
+**Tools & DB:** MySQL, Git <br>
+**CS Core:** Data Structures & Algorithms, Competitive Programming <br>
+**AI/Cloud:** AWS — Machine Learning Foundations, Introduction to Gen AI, Introduction to Cloud 101 <br>
 
 ---
 
