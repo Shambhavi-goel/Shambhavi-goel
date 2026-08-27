@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shambhavi Goel 👋</h1>
+<h1 align="center">Hi there, I'm Shambhavi Goel </h1>
 
 <p align="center">
   <b>B.Tech AI & ML Student | Aspiring AI/ML Engineer</b><br/>
@@ -9,7 +9,7 @@
   <a href="mailto:shambhavigoel2@gmail.com">
     <img src="https://img.shields.io/badge/Email-shambhavigoel2%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shambhavi-goel-29110b388/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-lightgrey?style=flat&logo=googlemaps&logoColor=white" />
