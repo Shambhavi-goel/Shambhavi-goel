@@ -85,10 +85,10 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 - 🥇 **NITORI Scholar** — awarded for one of the highest CGPAs in the department, 1st year B.Tech
 - 🎗️ **Ericsson Empowering Girls Scholarship** — recipient under the Ericsson girl-empowerment program
-- 💡 **GFG Hack-4-Viksit Bharat Hackathon (2026)** — Top 15 teams for a Carbon Coin Marketplace (OCR, satellite verification, face recognition)
+- 💡 **GFG Hack-4-Viksit Bharat Hackathon 2026 Semifinalist** — Top 15 teams for a Carbon Coin Marketplace (OCR, satellite verification, face recognition)
 - ☁️ **AI for Bharat Certification (AWS-powered, 2025)** — two-phase learning + hackathon program with hands-on AI/AWS exposure
 - 🏅 **AWS Educate Badges** — earned for completing Machine Learning Foundations, Introduction to Gen AI, and Introduction to Cloud 101
-- 🚀 **India Innovates 2026** — Finalist for *Clean Street*, a civic issue reporting platform
+- 🚀 **India Innovates 2026 Finalist** — Finalist for *Clean Street*, a civic issue reporting platform
 
 ---
 
