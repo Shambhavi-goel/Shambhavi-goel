@@ -37,11 +37,11 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ### 🛠️ Skills
 
-**Languages:** Python, C, C++
+**Languages:** Python, C, C++ 
 **Web/Mobile:** HTML, CSS, JavaScript, Flutter
 **Data/ML:** Data Cleaning, EDA, Feature Engineering, ML Classification Models
-**Tools & DB:** MySQL, Verilog, Digital System Design, Git
-**CS Core:** Data Structures & Algorithms, Competitive Programming, Computer System Architecture
+**Tools & DB:** MySQL, Git
+**CS Core:** Data Structures & Algorithms, Competitive Programming
 **AI/Cloud:** AWS — Machine Learning Foundations, Introduction to Gen AI, Introduction to Cloud 101
 
 ---
@@ -64,7 +64,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
   <a href="mailto:shambhavigoel2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shambhavi-goel-29110b388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
