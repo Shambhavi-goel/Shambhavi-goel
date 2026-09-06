@@ -40,6 +40,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 | Project | One-line Explanation | Tech Stack |
 |---|---|---|
 | [**FoodLoop**](https://github.com/anandtejaswi/FoodLoop) | Cross-platform mobile app connecting surplus-food donors with recipients to reduce food wastage. | Flutter, Dart, Node.js, Express |
+| [**NariRakshak**](https://github.com/pranjalg544/naarirakshak) | AI-powered women's commute-safety app with real-time location tracking and a shareable web tracking link. | Flutter, Dart, Node.js, TypeScript, Express, PostgreSQL/PostGIS, Socket.io, Leaflet.js |
 | [**SAQMS**](https://github.com/Nilaykumar25/Smart_Appointment_Queue_Management_System) | Full-stack clinic platform for booking appointments and tracking real-time queue position. | React, Node.js, Express, PostgreSQL, Redis, JWT |
 | [**Face Recognition System**](https://github.com/Shambhavi-goel/face-recognition-system) | Facial recognition pipeline supporting 100+ identities using detection, alignment, and embedding matching. | Python, InsightFace, ArcFace, OpenCV, scikit-learn |
 | [**Clean Street**](https://github.com/Aman162004/clean-street) | Full-stack web app for reporting and tracking local civic/cleanliness issues via maps and a live dashboard. | React, Node.js, Express, MongoDB, Leaflet, Recharts, JWT |
