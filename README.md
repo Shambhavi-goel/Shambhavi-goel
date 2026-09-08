@@ -62,6 +62,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambhavi-goel&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
+
 ---
 
 ### 🛠️ Tech Stack
