@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/shambhavi-goel-29110b388/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.shambhavihere.in">
+    <img src="https://img.shields.io/badge/Portfolio-shambhavihere.in-green?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-lightgrey?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -59,8 +62,9 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shambhavi-goel&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"> <img src="https://ghstats.dev/api/sparkline?username=Shambhavi-goel&days=30&width=600" /> </p>
-
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=Shambhavi-goel&days=30&width=600" />
+</p>
 
 ---
 
@@ -119,6 +123,9 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
   </a>
   <a href="https://www.linkedin.com/in/shambhavi-goel-29110b388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.shambhavihere.in">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
