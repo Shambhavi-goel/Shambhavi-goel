@@ -59,9 +59,8 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shambhavi-goel&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambhavi-goel&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+<p align="center"> <img src="https://ghstats.dev/api/sparkline?username=Shambhavi-goel&days=30&width=600" /> </p>
+
 
 ---
 
