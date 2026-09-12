@@ -38,6 +38,8 @@ I'm a B.Tech AI & ML student at the **Faculty of Technology, University of Delhi
 
 I'm comfortable working across the stack: data cleaning and modeling in Python, front-end/mobile development in Flutter and JavaScript, and rapid prototyping under hackathon time constraints.
 
+📊 **168+ DSA problems solved** across LeetCode, GeeksforGeeks & Codeforces — Institute Rank **#8 (GFG)** at Faculty of Technology, DU. **182+ GitHub contributions** in the past year with consistent commit streaks. **8+ hackathons** completed across organizations including ISRO/Hack2skill, Adobe, and Logitech.
+
 🎯 **I'm currently open to research, collaboration, projects, and internship opportunities** — always excited to work on meaningful problems with great teams.
 
 ---
@@ -61,6 +63,18 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 | [**Face Recognition System**](https://github.com/Shambhavi-goel/face-recognition-system) | Facial recognition pipeline supporting 100+ identities using detection, alignment, and embedding matching. | Python, InsightFace, ArcFace, OpenCV, scikit-learn | — |
 | [**Clean Street**](https://github.com/Aman162004/clean-street) | Full-stack web app for reporting and tracking local civic/cleanliness issues via maps and a live dashboard. | React, Node.js, Express, MongoDB, Leaflet, Recharts, JWT | [Live Demo](https://clean-street-phi.vercel.app/) |
 | [**Kissan Sathi**](https://github.com/Aman162004/Blockchain-App-For-Farmers) | Decentralized marketplace connecting farmers directly with buyers via smart contracts and a transparent ledger. | Solidity, Ethereum/Polygon, Node.js, Express, MongoDB, JWT | — |
+
+---
+
+### 🧮 Problem Solving
+
+| Platform | Stat |
+|---|---|
+| [LeetCode](https://leetcode.com/u/Pokemon_sg/) | 70+ problems solved (Easy & Medium) |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shambhavikikp) | Institute Rank **#8**, Faculty of Technology, DU |
+| [Codeforces](https://codeforces.com/profile/Pokemon_sg) | Active solver — greedy, number theory, constructive problems |
+
+**168+ total problems solved** across all three platforms, spanning Arrays & Hashing, Two Pointers, Binary Search, Trees & Graphs, DP, Greedy, Recursion & Backtracking, Heaps, Bit Manipulation, and Linked Lists.
 
 ---
 
@@ -131,6 +145,8 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 - 🏅 **AWS Educate Badges** — earned for completing Machine Learning Foundations, Introduction to Gen AI, and Introduction to Cloud 101
 - 🚀 **India Innovates 2026 Finalist** — Finalist for *Clean Street*, a civic issue reporting platform
 - 🌿 **Nestlé E-learning 2026: Resilience** — completion certificate under the Nestlé Needs YOUth Nesternship program
+- 🧮 **168+ DSA Problems Solved** — across LeetCode, GeeksforGeeks & Codeforces; Institute Rank #8 (GFG) at Faculty of Technology, DU
+- 🏆 **8+ Hackathons & Innovation Sprints** — incl. ISRO/Hack2skill Bharatiya Antariksh Hackathon, Adobe University Hackathon, Logitech Women Who Master, and VentureForge Ideathon (DU)
 
 ---
 
