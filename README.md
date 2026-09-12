@@ -42,6 +42,8 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 🎯 **I'm currently open to research, collaboration, projects, and internship opportunities** — always excited to work on meaningful problems with great teams.
 
+🔬 **Currently researching on:** Smart Sustainability Platform — Leveraging AI for real-time environmental impact assessment.
+
 ---
 
 ### 🎓 Education
@@ -69,7 +71,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Shambhavi-goel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Shambhavi-goel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shambhavi-goel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
