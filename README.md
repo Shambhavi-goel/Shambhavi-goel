@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Pokemon__sg-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Pokemon_sg">
-    <img src="https://img.shields.io/badge/Codeforces-Pokemon__sg-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Pokemon_sg" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/shambhavikikp">
     <img src="https://img.shields.io/badge/GeeksforGeeks-shambhavikikp-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
@@ -68,13 +68,29 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ### 🧮 Problem Solving
 
-| Platform | Stat |
-|---|---|
-| [LeetCode](https://leetcode.com/u/Pokemon_sg/) | 70+ problems solved (Easy & Medium) |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shambhavikikp) | Institute Rank **#8**, Faculty of Technology, DU |
-| [Codeforces](https://codeforces.com/profile/Pokemon_sg) | Active solver — greedy, number theory, constructive problems |
+These cards pull live data from each platform — they update automatically whenever I solve a new problem.
+
+<p align="center">
+  <a href="https://leetcode.com/u/Pokemon_sg/">
+    <img src="https://leetcard.jacoblin.cool/Pokemon_sg?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Pokemon_sg">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pokemon_sg" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/shambhavikikp">
+    <img src="https://gfgstatscard.vercel.app/shambhavikikp" alt="GeeksforGeeks Stats" />
+  </a>
+</p>
 
 **168+ total problems solved** across all three platforms, spanning Arrays & Hashing, Two Pointers, Binary Search, Trees & Graphs, DP, Greedy, Recursion & Backtracking, Heaps, Bit Manipulation, and Linked Lists.
+
+> Note: these cards are served by third-party community projects (not LeetCode/Codeforces/GFG themselves). If a card doesn't render, it's usually a temporary host hiccup — the profile links above always work.
 
 ---
 
