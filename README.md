@@ -22,9 +22,6 @@
   <a href="https://leetcode.com/u/Pokemon_sg/">
     <img src="https://img.shields.io/badge/LeetCode-Pokemon__sg-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Pokemon_sg">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Pokemon_sg" />
-  </a>
   <a href="https://www.geeksforgeeks.org/profile/shambhavikikp">
     <img src="https://img.shields.io/badge/GeeksforGeeks-shambhavikikp-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
