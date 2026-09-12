@@ -42,6 +42,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 | Project | One-line Explanation | Tech Stack |
 |---|---|---|
+| [**Client Project Dashboard**](https://github.com/Shambhavi-goel/client_project_dashboard) | Real-time, full-stack multi-tenant project management dashboard with RBAC, live activity feeds, presence tracking, and WebSocket notifications. | TypeScript, React, Vite, TailwindCSS, Express, Prisma, PostgreSQL, Socket.io, JWT |
 | [**FoodLoop**](https://github.com/anandtejaswi/FoodLoop) | Cross-platform mobile app connecting surplus-food donors with recipients to reduce food wastage. | Flutter, Dart, Node.js, Express |
 | [**NariRakshak**](https://github.com/pranjalg544/naarirakshak) | AI-powered women's commute-safety app with real-time location tracking and a shareable web tracking link. | Flutter, Dart, Node.js, TypeScript, Express, PostgreSQL/PostGIS, Socket.io, Leaflet.js |
 | [**SAQMS**](https://github.com/Nilaykumar25/Smart_Appointment_Queue_Management_System) | Full-stack clinic platform for booking appointments and tracking real-time queue position. | React, Node.js, Express, PostgreSQL, Redis, JWT |
@@ -75,17 +76,23 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
@@ -93,10 +100,11 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ### 🛠️ Skills
 
-**Languages:** Python, C, C++  <br>
-**Web/Mobile:** HTML, CSS, JavaScript, Flutter <br>
+**Languages:** Python, C, C++, TypeScript, JavaScript <br>
+**Web/Mobile:** HTML, CSS, JavaScript, Flutter, React, TailwindCSS <br>
+**Backend/Real-Time:** Node.js, Express, Socket.io, Prisma, JWT Auth, RBAC <br>
 **Data/ML:** Data Cleaning, EDA, Feature Engineering, ML Classification Models <br>
-**Tools & DB:** MySQL, Git <br>
+**Tools & DB:** MySQL, PostgreSQL, MongoDB, Docker, Git <br>
 **CS Core:** Data Structures & Algorithms, Competitive Programming <br>
 **AI/Cloud:** AWS — Machine Learning Foundations, Introduction to Gen AI, Introduction to Cloud 101 <br>
 
