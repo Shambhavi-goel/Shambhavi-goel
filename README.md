@@ -66,34 +66,6 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ---
 
-### 🧮 Problem Solving
-
-These cards pull live data from each platform — they update automatically whenever I solve a new problem.
-
-<p align="center">
-  <a href="https://leetcode.com/u/Pokemon_sg/">
-    <img src="https://leetcard.jacoblin.cool/Pokemon_sg?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Pokemon_sg">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pokemon_sg" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/shambhavikikp">
-    <img src="https://gfgstatscard.vercel.app/shambhavikikp" alt="GeeksforGeeks Stats" />
-  </a>
-</p>
-
-**168+ total problems solved** across all three platforms, spanning Arrays & Hashing, Two Pointers, Binary Search, Trees & Graphs, DP, Greedy, Recursion & Backtracking, Heaps, Bit Manipulation, and Linked Lists.
-
-> Note: these cards are served by third-party community projects (not LeetCode/Codeforces/GFG themselves). If a card doesn't render, it's usually a temporary host hiccup — the profile links above always work.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
