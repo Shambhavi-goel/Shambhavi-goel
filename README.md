@@ -18,6 +18,18 @@
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-lightgrey?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Pokemon_sg/">
+    <img src="https://img.shields.io/badge/LeetCode-Pokemon__sg-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Pokemon_sg">
+    <img src="https://img.shields.io/badge/Codeforces-Pokemon__sg-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/shambhavikikp">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-shambhavikikp-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🌱 About Me
@@ -40,15 +52,15 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ### 🚀 Projects
 
-| Project | One-line Explanation | Tech Stack |
-|---|---|---|
-| [**Client Project Dashboard**](https://github.com/Shambhavi-goel/client_project_dashboard) | Real-time, full-stack multi-tenant project management dashboard with RBAC, live activity feeds, presence tracking, and WebSocket notifications. | TypeScript, React, Vite, TailwindCSS, Express, Prisma, PostgreSQL, Socket.io, JWT |
-| [**FoodLoop**](https://github.com/anandtejaswi/FoodLoop) | Cross-platform mobile app connecting surplus-food donors with recipients to reduce food wastage. | Flutter, Dart, Node.js, Express |
-| [**NariRakshak**](https://github.com/pranjalg544/naarirakshak) | AI-powered women's commute-safety app with real-time location tracking and a shareable web tracking link. | Flutter, Dart, Node.js, TypeScript, Express, PostgreSQL/PostGIS, Socket.io, Leaflet.js |
-| [**SAQMS**](https://github.com/Nilaykumar25/Smart_Appointment_Queue_Management_System) | Full-stack clinic platform for booking appointments and tracking real-time queue position. | React, Node.js, Express, PostgreSQL, Redis, JWT |
-| [**Face Recognition System**](https://github.com/Shambhavi-goel/face-recognition-system) | Facial recognition pipeline supporting 100+ identities using detection, alignment, and embedding matching. | Python, InsightFace, ArcFace, OpenCV, scikit-learn |
-| [**Clean Street**](https://github.com/Aman162004/clean-street) | Full-stack web app for reporting and tracking local civic/cleanliness issues via maps and a live dashboard. | React, Node.js, Express, MongoDB, Leaflet, Recharts, JWT |
-| [**Kissan Sathi**](https://github.com/Aman162004/Blockchain-App-For-Farmers) | Decentralized marketplace connecting farmers directly with buyers via smart contracts and a transparent ledger. | Solidity, Ethereum/Polygon, Node.js, Express, MongoDB, JWT |
+| Project | One-line Explanation | Tech Stack | Links |
+|---|---|---|---|
+| [**Client Project Dashboard**](https://github.com/Shambhavi-goel/client_project_dashboard) | Real-time, full-stack multi-tenant project management dashboard with RBAC, live activity feeds, presence tracking, and WebSocket notifications. | TypeScript, React, Vite, TailwindCSS, Express, Prisma, PostgreSQL, Socket.io, JWT | [Live Demo](https://client-project-dashboard-frontend-six.vercel.app/login) |
+| [**FoodLoop**](https://github.com/anandtejaswi/FoodLoop) | Cross-platform mobile app connecting surplus-food donors with recipients to reduce food wastage. | Flutter, Dart, Node.js, Express | [APK](https://github.com/anandtejaswi/FoodLoop/releases/tag/apk) |
+| [**NariRakshak**](https://github.com/pranjalg544/naarirakshak) | AI-powered women's commute-safety app with real-time location tracking and a shareable web tracking link. | Flutter, Dart, Node.js, TypeScript, Express, PostgreSQL/PostGIS, Socket.io, Leaflet.js | [APK](https://github.com/pranjalg544/naarirakshak/releases/tag/v1.0.0) |
+| [**SAQMS**](https://github.com/Nilaykumar25/Smart_Appointment_Queue_Management_System) | Full-stack clinic platform for booking appointments and tracking real-time queue position. | React, Node.js, Express, PostgreSQL, Redis, JWT | [Live Demo](https://smart-appointment-queue-management.vercel.app/) |
+| [**Face Recognition System**](https://github.com/Shambhavi-goel/face-recognition-system) | Facial recognition pipeline supporting 100+ identities using detection, alignment, and embedding matching. | Python, InsightFace, ArcFace, OpenCV, scikit-learn | — |
+| [**Clean Street**](https://github.com/Aman162004/clean-street) | Full-stack web app for reporting and tracking local civic/cleanliness issues via maps and a live dashboard. | React, Node.js, Express, MongoDB, Leaflet, Recharts, JWT | [Live Demo](https://clean-street-phi.vercel.app/) |
+| [**Kissan Sathi**](https://github.com/Aman162004/Blockchain-App-For-Farmers) | Decentralized marketplace connecting farmers directly with buyers via smart contracts and a transparent ledger. | Solidity, Ethereum/Polygon, Node.js, Express, MongoDB, JWT | — |
 
 ---
 
@@ -100,7 +112,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 ### 🛠️ Skills
 
-**Languages:** Python, C, C++, TypeScript, JavaScript <br>
+**Languages:** Python, C, C++, TypeScript <br>
 **Web/Mobile:** HTML, CSS, JavaScript, Flutter, React, TailwindCSS <br>
 **Backend/Real-Time:** Node.js, Express, Socket.io, Prisma, JWT Auth, RBAC <br>
 **Data/ML:** Data Cleaning, EDA, Feature Engineering, ML Classification Models <br>
@@ -118,6 +130,7 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 - ☁️ **AI for Bharat Certification (AWS-powered, 2025)** — two-phase learning + hackathon program with hands-on AI/AWS exposure
 - 🏅 **AWS Educate Badges** — earned for completing Machine Learning Foundations, Introduction to Gen AI, and Introduction to Cloud 101
 - 🚀 **India Innovates 2026 Finalist** — Finalist for *Clean Street*, a civic issue reporting platform
+- 🌿 **Nestlé E-learning 2026: Resilience** — completion certificate under the Nestlé Needs YOUth Nesternship program
 
 ---
 
