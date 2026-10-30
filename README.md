@@ -38,7 +38,7 @@ I'm a B.Tech AI & ML student at the **Faculty of Technology, University of Delhi
 
 I'm comfortable working across the stack: data cleaning and modeling in Python, front-end/mobile development in Flutter and JavaScript, and rapid prototyping under hackathon time constraints.
 
-📊 **300+ DSA problems solved** across LeetCode, GeeksforGeeks & Codeforces — Institute Rank **#9 (GFG)** at Faculty of Technology, DU. **800+ GitHub contributions** with consistent commit streaks. **8+ hackathons** completed across organizations including ISRO/Hack2skill, Adobe, and Logitech.
+📊 **300+ DSA problems solved** across LeetCode, GeeksforGeeks & Codeforces — Institute Rank **#9 (GFG)** at Faculty of Technology, DU. **700+ GitHub contributions** with consistent commit streaks. **8+ hackathons** completed across organizations including ISRO/Hack2skill, Adobe, and Logitech.
 
 🎯 **I'm currently open to research, collaboration, projects, and internship opportunities** — always excited to work on meaningful problems with great teams.
 
