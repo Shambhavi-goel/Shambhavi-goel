@@ -112,9 +112,9 @@ I'm comfortable working across the stack: data cleaning and modeling in Python, 
 
 **Languages:** Python, C, C++, TypeScript <br>
 **Web/Mobile:** HTML, CSS, JavaScript, Flutter, React, TailwindCSS <br>
-**Backend/Real-Time:** Node.js, Express, Socket.io, Prisma, JWT Auth, RBAC <br>
+**Backend/Real-Time:** Node.js, Express, JWT Auth <br>
 **Data/ML:** Data Cleaning, EDA, Feature Engineering, ML Classification Models <br>
-**Tools & DB:** MySQL, PostgreSQL, MongoDB, Docker, Git <br>
+**Tools & DB:** MySQL, PostgreSQL, MongoDB, Git <br>
 **CS Core:** Data Structures & Algorithms, Competitive Programming <br>
 **AI/Cloud:** AWS — Machine Learning Foundations, Introduction to Gen AI, Introduction to Cloud 101 <br>
 
